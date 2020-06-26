@@ -5,3 +5,7 @@ Official Flink image does not contain Hadoop dependencies. This image exends the
 
 [https://flink.apache.org/downloads.html#additional-components](https://flink.apache.org/downloads.html#additional-components)
 
+
+# Supported Tags
+
+[1.10.1](https://github.com/margic/flink-hadoop/blob/1.10.1/Dockerfile) with Hadoop 2.8.3
